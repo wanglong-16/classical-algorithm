@@ -13,7 +13,7 @@ public class ArrUtil {
             if (i == 0) {
                 System.out.print(String.format("[%s, ", arr[0]));
             } else if (i == arr.length - 1) {
-                System.out.print(String.format("%s] ", arr[arr.length - 1]));
+                System.out.println(String.format("%s] ", arr[arr.length - 1]));
             } else {
                 System.out.print(String.format("%s, ", arr[i]));
             }

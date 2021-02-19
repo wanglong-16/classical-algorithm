@@ -12,6 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         BitOperation operation = new BitOperation();
-        operation.bitOptAnd();
+        //operation.bitOptResetHighNToOne(12351, 15);
+        operation.bitOptXOr();
     }
 }

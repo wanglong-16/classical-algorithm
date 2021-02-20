@@ -93,4 +93,26 @@ public class BitOperation {
         BitUtil.printIntBits(num);
     }
 
+    /**
+     * 一个位移相关的算法叫做「Brian Kernighan 算法」，它用于清除二进制串中最右边的 1。
+     * n & n - 1 将n的最后一位1置0
+     * @param n
+     */
+    public void bitOptNAndNMinusOne(int n) {
+        System.out.println("n & n - 1 ====== ");
+        int count;
+        for (count = 0; n != 0; ++count) {
+            BitUtil.printIntBits(n);
+            n &= n - 1; //zeroing out the least significant nonzero bit
+        }
+        System.out.println("n bit one total " + count);
+    }
+
+    /**
+     * 原码、反码、补码
+     */
+    public void bitCode() {
+
+    }
+
 }

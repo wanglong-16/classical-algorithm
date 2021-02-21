@@ -109,6 +109,13 @@ public class BitOperation {
     }
 
     /**
+     * 判断某位是否为1
+     */
+    public boolean checkPosBitIsOne(int num, int pos) {
+        return (num & (1 << pos)) == 1 << pos;
+    }
+
+    /**
      * 原码、反码、补码
      */
     public void bitCode() {

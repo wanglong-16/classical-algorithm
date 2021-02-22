@@ -57,6 +57,14 @@ public class BitOperation {
         BitUtil.printIntBits(n);
     }
 
+    /**
+     * a ^ b = c => a ^ c = b 、 b ^ c = a
+     */
+    public void bitXOR() {
+        int m = 2 ^ 3;
+        System.out.println((m ^ 3) == 2);
+    }
+
     public void bitOptNot() {
         int n = (int) (1000000 * Math.random());
         System.out.println("n ====> " + n);
@@ -106,6 +114,13 @@ public class BitOperation {
             n &= n - 1; //zeroing out the least significant nonzero bit
         }
         System.out.println("n bit one total " + count);
+    }
+
+    /**
+     * 判断某位是否为1
+     */
+    public boolean checkPosBitIsOne(int num, int pos) {
+        return (num & (1 << pos)) == 1 << pos;
     }
 
     /**

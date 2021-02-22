@@ -1,6 +1,7 @@
 package main;
 
 import core.BitOperation;
+import util.BitUtil;
 
 /**
  * @description:
@@ -13,6 +14,8 @@ public class Main {
     public static void main(String[] args) {
         BitOperation operation = new BitOperation();
         //operation.bitOptResetHighNToOne(12351, 15);
-        operation.bitOptNAndNMinusOne(12351);
+       // operation.bitOptNAndNMinusOne(12351);
+
+        BitUtil.printIntBits(-1);
     }
 }

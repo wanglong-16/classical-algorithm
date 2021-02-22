@@ -57,6 +57,14 @@ public class BitOperation {
         BitUtil.printIntBits(n);
     }
 
+    /**
+     * a ^ b = c => a ^ c = b 、 b ^ c = a
+     */
+    public void bitXOR() {
+        int m = 2 ^ 3;
+        System.out.println((m ^ 3) == 2);
+    }
+
     public void bitOptNot() {
         int n = (int) (1000000 * Math.random());
         System.out.println("n ====> " + n);

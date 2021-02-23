@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/bit-operation/pom.xml" />
+        <option value="$PROJECT_DIR$/sort-algorithm/pom.xml" />
       </list>
     </option>
   </component>

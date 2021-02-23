@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bit-operation" />
+        <module name="sort-algorithm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bit-operation" target="1.5" />
+      <module name="sort-algorithm" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

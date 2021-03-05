@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d85bf890-30c8-46c4-b343-a748aaaf63ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bit-operation/src/main/java/core/BitOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/bit-operation/src/main/java/core/BitOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bit-operation/src/main/java/core/description" beforeDir="false" afterPath="$PROJECT_DIR$/bit-operation/src/main/java/core/description" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1odOlRAheSFI9LJWrGFTe720iUq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/bit-operation/src/main/java/core/bitoperation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bit-operation/src/main/java/core" />
+      <recent name="$PROJECT_DIR$/bit-operation/src/main/java/core/bitoperation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="ArrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.ArrUtil" />
+      <module name="bit-operation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="sort-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="bit-operation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d85bf890-30c8-46c4-b343-a748aaaf63ca" name="Default Changelist" comment="" />
+      <created>1613613151725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613613151725</updated>
+      <workItem from="1613613153228" duration="3004000" />
+      <workItem from="1613695461004" duration="3988000" />
+      <workItem from="1613746997785" duration="2247000" />
+      <workItem from="1613833069400" duration="1763000" />
+      <workItem from="1613991245695" duration="1178000" />
+      <workItem from="1614044713441" duration="1471000" />
+      <workItem from="1614257145421" duration="776000" />
+      <workItem from="1614929256638" duration="3054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1614931893581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931893581" />
+    <state width="1396" height="164" key="GridCell.Tab.0.bottom" timestamp="1614931823754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="164" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823754" />
+    <state width="1396" height="155" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613747760743" />
+    <state width="1396" height="164" key="GridCell.Tab.0.center" timestamp="1614931823751">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="164" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823751" />
+    <state width="1396" height="155" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613747760741" />
+    <state width="1396" height="164" key="GridCell.Tab.0.left" timestamp="1614931823750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="164" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823750" />
+    <state width="1396" height="155" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613747760741" />
+    <state width="1396" height="164" key="GridCell.Tab.0.right" timestamp="1614931823753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="164" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823753" />
+    <state width="1396" height="155" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613747760742" />
+    <state width="1396" height="184" key="GridCell.Tab.1.bottom" timestamp="1614931823287">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="184" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823287" />
+    <state width="1396" height="184" key="GridCell.Tab.1.center" timestamp="1614931823284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="184" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823284" />
+    <state width="1396" height="184" key="GridCell.Tab.1.left" timestamp="1614931823283">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="184" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823283" />
+    <state width="1396" height="184" key="GridCell.Tab.1.right" timestamp="1614931823285">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="184" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614931823285" />
+    <state x="507" y="235" key="chooseDestDirectoryDialog" timestamp="1614044365863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="235" key="chooseDestDirectoryDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614044365863" />
+    <state x="88" y="113" key="new project wizard" timestamp="1614046575007">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="113" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1614046575007" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sort-algorithm/src/main/java/core/BubbleSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

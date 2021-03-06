@@ -126,8 +126,8 @@ public class BitOperation {
     /**
      * 原码、反码、补码
      */
-    public void bitCode() {
-
+    public void bitCode(int num) {
+        System.out.println(Integer.toBinaryString(num));
     }
 
 }

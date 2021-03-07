@@ -1,6 +1,6 @@
-import core.BubbleSort;
-import core.SelectSort;
-import core.SortInf;
+import bitoperation.core.BubbleSort;
+import bitoperation.core.SelectSort;
+import bitoperation.core.SortInf;
 
 /**
  * @description:

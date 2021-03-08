@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bit-operation/bit-operation.iml" filepath="$PROJECT_DIR$/bit-operation/bit-operation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/classical-algorithm.iml" filepath="$PROJECT_DIR$/.idea/classical-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.personal.wanglong16/com.personal.wanglong16.iml" filepath="$PROJECT_DIR$/com.personal.wanglong16/com.personal.wanglong16.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort-algorithm/sort-algorithm.iml" filepath="$PROJECT_DIR$/sort-algorithm/sort-algorithm.iml" />
     </modules>
   </component>

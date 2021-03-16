@@ -1,4 +1,4 @@
-package bitoperation.main;
+package bitoperation.test;
 
 import bitoperation.core.BitOperation;
 import bitoperation.util.BitUtil;

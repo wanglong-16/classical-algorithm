@@ -13,6 +13,9 @@ public class BinarySearch {
         System.out.println(binarySearch(arr, 8));
     }
 
+    /**
+     * 二分查找写法
+     */
     private static int binarySearch(int [] source, int target) {
         int left = 0, right = source.length - 1;
         while (left <= right) {

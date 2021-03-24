@@ -10,6 +10,5 @@ public class Test {
 
     public static void main(String[] args) {
         Practices practices = new Practices();
-        System.out.println(practices.kthSmallest(3, 4));
     }
 }

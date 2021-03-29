@@ -1,6 +1,6 @@
-package core;
+package bitoperation.core;
 
-import util.BitUtil;
+import bitoperation.util.BitUtil;
 
 /**
  * @description:

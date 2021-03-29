@@ -1,7 +1,7 @@
-package main;
+package bitoperation.test;
 
-import core.BitOperation;
-import util.BitUtil;
+import bitoperation.core.BitOperation;
+import bitoperation.util.BitUtil;
 
 /**
  * @description:

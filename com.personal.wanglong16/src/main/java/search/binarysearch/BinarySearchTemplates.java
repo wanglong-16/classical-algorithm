@@ -1,8 +1,8 @@
-package binarysearch;
+package search.binarysearch;
 
 
 /**
- * @description: 二分查找
+ * @description: 二分查找模版
  * @version: 1.0
  * @date: 2021-03-14 21:53:19
  * @author: wanglong16@meicai.cn

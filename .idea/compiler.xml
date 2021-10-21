@@ -11,8 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.personal.wanglong16" target="1.5" />
-      <module name="sort-algorithm" target="1.5" />
+      <module name="com.personal.wanglong16" target="8" />
+      <module name="sort-algorithm" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
